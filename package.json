@@ -1,0 +1,19 @@
+{
+  "name": "portal-ks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collabguys/portal-ks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collabguys/portal-ks/issues"
+  },
+  "homepage": "https://github.com/collabguys/portal-ks#readme"
+}
